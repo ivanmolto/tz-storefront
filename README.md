@@ -14,3 +14,8 @@ You can also download the plan for TZ Storefront from Filecoin [here](https://iv
 
 You can read the slide deck [here](https://github.com/ivanmolto/tz-storefront/blob/master/metamorphosis-hackathon-tezos-contrib-ivanmolto.pdf) or download it froom Filecoin [here](https://ivanmolto.mypinata.cloud/ipfs/QmZR6mrFLhoTA4Rdofcm2WAM4mdNr1mQmLpBmKGufTCK3V)
 
+
+## VIDEO
+
+You can watch the video [here]()
+
