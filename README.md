@@ -17,5 +17,5 @@ You can read the slide deck [here](https://github.com/ivanmolto/tz-storefront/bl
 
 ## VIDEO
 
-You can watch the video [here]()
+You can watch the video [here](https://youtu.be/bXD_8mkhfjA)
 
