@@ -4,6 +4,8 @@ This is a submission for the No Code bounty from tezos-contrib at Metamorphosis 
 
 A metamorphosis from Kanvas NFT Store to a full-fledged headless e-commerce Storefront, including a Partner Agencies Directory and a DAO with a governance token.
 
+Metamorphosis hackathon by Gitcoin - Tezos research winner 🏆
+
 ## DETAILED PLAN
 
 You can view [here](https://github.com/ivanmolto/tz-storefront/blob/master/tz-storefront-ivanmolto.pdf) the detailed plan for the Tezos-based project.
